@@ -1,6 +1,6 @@
 
-var width = 960,
-    height = 500;
+var width = 400,
+    height = 400;
 
 var projection = d3.geo.orthographic()
     .translate([width / 2, height / 2])
